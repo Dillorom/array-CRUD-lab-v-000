@@ -10,6 +10,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  add_elment_to_end_of_array(array, element) << ""
   
 end
 
